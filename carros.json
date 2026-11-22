@@ -1,0 +1,53 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "Marca": "Mazda",
+            "Nome": "787b",
+            "Premeios": "le mans 1991",
+            "Categoria": "WEC hypercar"
+        },
+        {
+            "id": 2,
+            "Marca": "Ferrari",
+            "Nome": "499P",
+            "Premios": "3 le mans consec 2023-2025",
+            "Categoria": "WEC hypercar"
+        },
+        {
+            "id": 3,
+            "Marca": "Toyota",
+            "Nome": "TS050",
+            "Premios": "5 le mans",
+            "Categoria": "WEC hypercar"
+        },
+        {
+            "id": 4,
+            "Marca": "Porsche",
+            "Nome": "956",
+            "Premios": "4 le mans 1982-1985",
+            "Categoria": "WEC Grupo C"
+        },
+        {
+            "id": 5,
+            "Marca": "Audi",
+            "Nome": "R10 TDI",
+            "Premios": "3 Le mans 2006-2008",
+            "Categoria": "WEC LMP1"
+        },
+        {
+            "id": 6,
+            "Marca": "Ford",
+            "Nome": "GT40",
+            "Premios": "4 le mans 1966-1969",
+            "Categoria": "WEC Grupo 6"
+        },
+        {
+            "id": 7,
+            "Marca": "BMW",
+            "Nome": "V12 LMR",
+            "Premios": "le mans 1999",
+            "Categoria": "LMP1"
+        }
+    ]
+}
