@@ -17,6 +17,13 @@ Rode no ternminal e escolhe entre as opções(1-Incluir um carro, 2-Alterar um c
 5- Lista: Exibe duas listas separadas por marca e categoria
 
 
+## Como o programa salva os arquivos
+Depois de cada operação, o programa salva a lista de carros no arquivo 'carros.json:
+ with open("carros.json", "w", encoding="utf8") as f:
+        json.dump({"data": carros}, f, ensure_ascii=False, indent=4)
+
+O programa abre o arquivo, escreve nele todos os carros da lista e depois o fecha. Assim os dados continuam guardados mesmo após o sistema fechar. Quando o programa é iniciado ele lê o arquivo com 'json.load'.
+
 # Tecnologias usadas
 Pyhton para a parte do código
 JSON para guardar os arquivos

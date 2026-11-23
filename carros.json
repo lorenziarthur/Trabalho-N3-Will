@@ -41,13 +41,6 @@
             "Nome": "GT40",
             "Premios": "4 le mans 1966-1969",
             "Categoria": "WEC Grupo 6"
-        },
-        {
-            "id": 7,
-            "Marca": "BMW",
-            "Nome": "V12 LMR",
-            "Premios": "le mans 1999",
-            "Categoria": "LMP1"
         }
     ]
 }
